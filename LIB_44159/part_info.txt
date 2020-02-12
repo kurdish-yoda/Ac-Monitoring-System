@@ -1,0 +1,9 @@
+Manufacturer=MYRRA
+PartNumber=44159
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2017-06-16 09:22:14
+Downloaded=2019-11-28 03:40:44
+3D=N

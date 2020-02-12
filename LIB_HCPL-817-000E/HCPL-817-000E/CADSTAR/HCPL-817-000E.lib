@@ -1,0 +1,18 @@
+.HCPL-817-000E :1 ;BROADCOM LIMITED - HCPL-817-000E - OPTOCOUPLER, TRANSISTOR O/P
+DIP762W60P254L460H400Q4N
+*STM Q
+*NGS
+*PLB 1="ANODE" 2="CATHODE" 3="EMITTER" 4="COLLECTOR"
+*MXP 4
+*DFN HCPL-817-000E
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (HCPL-817-000E)
+~!Mouser Part Number (630-HCPL-817-000E)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=630-HCPL-817-000E)
+~!RS Part Number (6961282P)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/6961282P)
+~!Link Datasheet (https://www.broadcom.com/products/optocouplers/industrial-plastic/other/phototransistor/hcpl-817-000e#overview)
+~!Height (4mm)
+~!3D_Model (HCPL-817-000E)
+HCPL-817-000E
+1.1!U 2.1!U 4.1!U 3.1!U 

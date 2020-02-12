@@ -1,0 +1,9 @@
+Manufacturer=Taiwan Semiconductor
+PartNumber=MBS10 RC
+PartCategory=Bridge Rectifier
+PackageCategory=Small Outline Packages
+PinCount=4
+Version=1.2
+Released=2016-01-09 08:16:51
+Downloaded=2019-11-28 12:04:10
+3D=Y

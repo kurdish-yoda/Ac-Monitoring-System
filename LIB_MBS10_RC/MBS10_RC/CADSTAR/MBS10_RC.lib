@@ -1,0 +1,20 @@
+.MBS10_RC :1 ;Diode Rectifier Bridge1KV 0.8A 4-Pin MBS Taiwan Semiconductor, MBS10 RC, Bridge Rectifier, Single Phase, 0.8A 1000V, 4-Pin MBS
+SOP240P690X290-4N
+*STM BR
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN MBS10_RC
+~!Manufacturer_Name (Taiwan Semiconductor)
+~!Manufacturer_Part_Number (MBS10 RC)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Allied_Number (70480444)
+~!Link Allied Price/Stock (http://www.alliedelec.com/taiwan-semiconductor-mbs10-rc/70480444/)
+~!Link Datasheet (http://docs-emea.rs-online.com/webdocs/1392/0900766b81392c32.pdf)
+~!Height (2.9mm)
+~!3D_Model (MBS10_RC)
+MBS10_RC
+1.1!U 2.1!U 4.1!U 3.1!U 

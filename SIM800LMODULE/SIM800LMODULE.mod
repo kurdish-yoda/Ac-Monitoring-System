@@ -1,0 +1,159 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SIM800LMODULE
+$EndINDEX
+$MODULE SIM800LMODULE
+Po 0 0 0 15 00000000 00000000 ~~
+Li SIM800LMODULE
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 0 1 0.9 0 0.05 N H 21 "SIM800LMODULE"
+T1 0 0 1 0.9 0 0.05 N H 21 "VAL**"
+DS -12.5 11.5 12.5 11.5 0.127 21
+DS 12.5 11.5 12.5 -11.5 0.127 21
+DS 12.5 -11.5 -12.5 -11.5 0.127 21
+DS -12.5 -11.5 -12.5 11.5 0.127 21
+DS -8.5 -4.5 8.5 -4.5 0.127 21
+DS 8.5 -4.5 8.5 -2.5 0.127 21
+DS 8.5 -2.5 8.5 10.5 0.127 21
+DS 8.5 10.5 -8.5 10.5 0.127 21
+DS -8.5 10.5 -8.5 0 0.127 21
+DS -8.5 0 -8.5 -4.5 0.127 21
+DS -8.5 0 -3.5 0 0.127 21
+DA -1 4.44089e-16 -1 -2.5 -900 0.127 21
+DS -1 -2.5 8.5 -2.5 0.127 21
+DS -7.5 -3.5 -7.5 -0.5 0.127 21
+DS -7.5 -0.5 -4.5 -0.5 0.127 21
+DS -4.5 -0.5 -4.5 -2.5 0.127 21
+DS -4.5 -2.5 -5 -3 0.127 21
+DS -5 -3 -5 -3.5 0.127 21
+DS -5 -3.5 -7.5 -3.5 0.127 21
+T2 -1.000000 -0.500000 1 1 0 .05 N V 21 "SIM800L"
+DS 10 -11 12 -11 0.127 21
+DS 12 -11 12 -8 0.127 21
+DS 12 -8 10 -8 0.127 21
+DS 10 -8 10 -11 0.127 21
+DS 9.5 -11 9.5 -8 0.127 21
+DS 9.5 -8 7.5 -8 0.127 21
+DS 7.5 -8 7.5 -11 0.127 21
+DS 7.5 -11 9.5 -11 0.127 21
+DS 7 -11 7 -8 0.127 21
+DS 7 -8 5 -8 0.127 21
+DS 5 -8 5 -11 0.127 21
+DS 5 -11 7 -11 0.127 21
+DS 4.5 -11 4.5 -8 0.127 21
+DS 4.5 -8 2.5 -8 0.127 21
+DS 2.5 -8 2.5 -11 0.127 21
+DS 2.5 -11 4.5 -11 0.127 21
+DS -12 -11 -8.5 -11 0.127 21
+DS -8.5 -11 -8.5 -7 0.127 21
+DS -8.5 -7 -12 -7 0.127 21
+DS -12 -7 -12 -11 0.127 21
+DC -10 -9 -9 -9 0.127 21
+DS -7.5 -11 1.5 -11 0.127 21
+DS 1.5 -11 1.5 -7 0.127 21
+DS 1.5 -7 -7.5 -7 0.127 21
+DS -7.5 -7 -7.5 -11 0.127 21
+$PAD
+Sh "SPK" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 9
+$EndPAD
+$PAD
+Sh "SPK+" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 6.5
+$EndPAD
+$PAD
+Sh "MIC" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 4
+$EndPAD
+$PAD
+Sh "MIC+" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 1.5
+$EndPAD
+$PAD
+Sh "DTR" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 -1
+$EndPAD
+$PAD
+Sh "GND" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 6.5
+$EndPAD
+$PAD
+Sh "TX" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 4
+$EndPAD
+$PAD
+Sh "RX" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 1.5
+$EndPAD
+$PAD
+Sh "RST" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 -1
+$EndPAD
+$PAD
+Sh "VCC" C 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 -3.5
+$EndPAD
+$PAD
+Sh "NET" R 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -10.5 -6
+$EndPAD
+$PAD
+Sh "RING" R 1.308 1.308 0 0 0
+Dr 0.8 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 10.5 -3.5
+$EndPAD
+$EndMODULE SIM800LMODULE

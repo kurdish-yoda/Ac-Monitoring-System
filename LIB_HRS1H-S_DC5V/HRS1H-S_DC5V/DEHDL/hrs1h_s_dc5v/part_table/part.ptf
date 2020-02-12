@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HRS1H_S_DC5V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "MULTICOMP", "HRS1H-S DC5V" (!) = "", "HRS1H-S", "Other", "", "", "", "", "MULTICOMP - HRS1H-S DC5V - RELAY, SIGNAL, SPDT, 120VAC, 24VDC, 3A", "http://www.farnell.com/datasheets/1306691.pdf"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Kemet
+PartNumber=EE2-3NUH-L
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2019-04-17 11:02:10
+Downloaded=2019-12-01 16:14:09
+3D=Y

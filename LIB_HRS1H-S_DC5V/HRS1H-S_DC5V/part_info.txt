@@ -1,0 +1,9 @@
+Manufacturer=MULTICOMP
+PartNumber=HRS1H-S DC5V
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2017-08-30 13:50:43
+Downloaded=2019-11-28 11:46:54
+3D=N

@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=HCPL-817-000E
+PartCategory=Transistor
+PackageCategory=Dual-In-Line Packages
+PinCount=4
+Version=1.2
+Released=2017-08-14 12:48:24
+Downloaded=2019-12-06 23:37:16
+3D=Y

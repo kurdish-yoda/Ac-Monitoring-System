@@ -1,0 +1,164 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "EE2-3NUH-L"
+   (description "DPDT Surface Mount Non-Latching Relay 2 A, 3V dc")
+   (family "RLY")
+   (package "EE23NUHL")
+   (attribute "Datasheet Link" "https://api.kemet.com/component-edge/download/datasheet/EE2-3NUH-L.pdf")
+   (attribute "Geometry.Height" "10mm")
+   (attribute "Manufacturer_Name" "Kemet")
+   (attribute "Manufacturer_Part_Number" "EE2-3NUH-L")
+   (attribute "Mouser Part Number" "80-EE2-3NUH-L")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=80-EE2-3NUH-L")
+   (attribute "RS Part Number" "8705447")
+   (attribute "RS Price/Stock" "http://uk.rs-online.com/web/p/products/8705447")
+   (attribute "Allied_Number" "70302404")
+   (attribute "Allied Price/Stock" "https://www.alliedelec.com/kemet-ee2-3nuh-l/70302404/")
+   (gate
+    (symbol "EE2-3NUH-L")
+    (pin "COIL_+" 1 PS)
+    (pin "N.C._1" 3 PS)
+    (pin "COM_1" 4 PS)
+    (pin "N.O._1" 5 PS)
+    (pin "N.O._2" 8 PS)
+    (pin "COM_2" 9 PS)
+    (pin "N.C._2" 10 PS)
+    (pin "COIL_-" 12 PS)
+   )
+  )
+  (symbol "EE2-3NUH-L"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "EE23NUHL"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -7.5 3.75)
+      (pt 7.5 3.75)
+      (pt 7.5 -3.75)
+      (pt -7.5 -3.75)
+      (pt -7.5 3.75))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -8.5 5.145)
+      (pt 8.5 5.145)
+      (pt 8.5 -5.45)
+      (pt -8.5 -5.45)
+      (pt -8.5 5.145))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -7.5 3.75)
+      (pt -7.5 -3.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 5.08 3.75)
+      (pt 7.5 3.75)
+      (pt 7.5 -3.75)
+      (pt 5.08 -3.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -5.08 3.75)
+      (pt -2.54 3.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -5.08 -3.75)
+      (pt -2.54 -3.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.4 -4.4)
+      (arc (pt -6.400 -4.400) (pt -6.400 -4.450) (pt -6.300 -4.350) (start 180.0) (sweep 180.0))
+      (pt -6.3 -4.4)
+      (arc (pt -6.300 -4.400) (pt -6.400 -4.450) (pt -6.300 -4.350) (start 180.0) (sweep .0))
+      (pt -6.4 -4.4))))
+   (leg 1 (pt -6.350 -3.145) (padstack 0))
+   (leg 3 (pt -1.270 -3.145) (padstack 0))
+   (leg 4 (pt 1.270 -3.145) (padstack 0))
+   (leg 5 (pt 3.810 -3.145) (padstack 0))
+   (leg 8 (pt 3.810 3.145) (padstack 0))
+   (leg 9 (pt 1.270 3.145) (padstack 0))
+   (leg 10 (pt -1.270 3.145) (padstack 0))
+   (leg 12 (pt -6.350 3.145) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.000 0 0 90.000))
+   )
+   (model "EE2-3NUH-L.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

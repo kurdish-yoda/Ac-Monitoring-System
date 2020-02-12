@@ -1,0 +1,20 @@
+.EE2-3NUH-L :1 ;DPDT Surface Mount Non-Latching Relay 2 A, 3V dc
+EE23NUHL
+*STM K
+*NGS
+*PLB 1="COIL +" 3="N.C._1" 4="COM_1" 5="N.O._1" 8="N.O._2" 9="COM_2" 10="N.C._2" 12="COIL -"
+*MXP 8
+*DFN EE2-3NUH-L
+~!Manufacturer_Name (Kemet)
+~!Manufacturer_Part_Number (EE2-3NUH-L)
+~!Mouser Part Number (80-EE2-3NUH-L)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=80-EE2-3NUH-L)
+~!RS Part Number (8705447)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/8705447)
+~!Allied_Number (70302404)
+~!Link Allied Price/Stock (https://www.alliedelec.com/kemet-ee2-3nuh-l/70302404/)
+~!Link Datasheet (https://api.kemet.com/component-edge/download/datasheet/EE2-3NUH-L.pdf)
+~!Height (10mm)
+~!3D_Model (EE2-3NUH-L)
+EE2-3NUH-L
+1.1!U 3.1!U 4.1!U 5.1!U 8.1!U 9.1!U 10.1!U 12.1!U 

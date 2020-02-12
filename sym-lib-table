@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MCP73833-AMI_UN)(type Legacy)(uri ${KIPRJMOD}/MCP73833-AMI_UN/MCP73833-AMI_UN.lib)(options "")(descr ""))
+  (lib (name SIM800LMODULE)(type Legacy)(uri ${KIPRJMOD}/SIM800LMODULE/SIM800LMODULE.lib)(options "")(descr ""))
+  (lib (name HCPL-817-000E)(type Legacy)(uri ${KIPRJMOD}/LIB_HCPL-817-000E/HCPL-817-000E/KiCad/HCPL-817-000E.lib)(options "")(descr ""))
+)

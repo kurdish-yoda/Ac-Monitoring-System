@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HRS1H-S_DC5V"
+   (description "MULTICOMP - HRS1H-S DC5V - RELAY, SIGNAL, SPDT, 120VAC, 24VDC, 3A")
+   (family "RLY")
+   (package "HRS1H-S")
+   (attribute "Datasheet Link" "http://www.farnell.com/datasheets/1306691.pdf")
+   (attribute "Manufacturer_Name" "MULTICOMP")
+   (attribute "Manufacturer_Part_Number" "HRS1H-S DC5V")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "RS Part Number" "")
+   (attribute "RS Price/Stock" "")
+   (gate
+    (symbol "HRS1H-S_DC5V")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+   )
+  )
+  (symbol "HRS1H-S_DC5V"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HRS1H-S"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -7.8 5.3)
+      (pt 7.8 5.3)
+      (pt 7.8 -5.3)
+      (pt -7.8 -5.3)
+      (pt -7.8 5.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -7.8 -5.3)
+      (pt -7.8 5.3)
+      (pt 7.8 5.3)
+      (pt 7.8 -5.3)
+      (pt -7.8 -5.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -6.61106 -6.078) (pt -6.45094 -6.078)
+     )
+    )
+   )
+   (leg 1 (pt -6.35 -3.81) (padstack 0))
+   (leg 2 (pt -3.81 -3.81) (padstack 0))
+   (leg 3 (pt 6.35 -3.81) (padstack 0))
+   (leg 4 (pt 6.35 3.81) (padstack 0))
+   (leg 5 (pt -3.81 3.81) (padstack 0))
+   (leg 6 (pt -6.35 3.81) (padstack 0))
+   (padstack 0
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (round 1.65))
+    (pad (layer INNER) (round 1.65))
+    (pad (layer BCOP) (round 1.65))
+   )
+  )
+ )
+)

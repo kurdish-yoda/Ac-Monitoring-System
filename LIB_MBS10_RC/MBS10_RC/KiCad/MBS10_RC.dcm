@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBS10_RC
+D Diode Rectifier Bridge1KV 0.8A 4-Pin MBS Taiwan Semiconductor, MBS10 RC, Bridge Rectifier, Single Phase, 0.8A 1000V, 4-Pin MBS
+K
+F http://docs-emea.rs-online.com/webdocs/1392/0900766b81392c32.pdf
+$ENDCMP
+#
+#End Doc Library

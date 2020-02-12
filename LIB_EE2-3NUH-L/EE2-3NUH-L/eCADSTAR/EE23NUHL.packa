@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EE2-3NUH-L"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-17-11:02:10)
+    (mountForm default
+        (footprintRef "EE23NUHL")
+        (spec "System")
+    )
+)

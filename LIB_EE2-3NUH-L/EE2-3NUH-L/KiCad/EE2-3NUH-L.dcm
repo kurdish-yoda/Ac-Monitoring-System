@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EE2-3NUH-L
+D DPDT Surface Mount Non-Latching Relay 2 A, 3V dc
+K
+F https://api.kemet.com/component-edge/download/datasheet/EE2-3NUH-L.pdf
+$ENDCMP
+#
+#End Doc Library

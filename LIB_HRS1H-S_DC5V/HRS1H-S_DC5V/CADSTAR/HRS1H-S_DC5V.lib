@@ -1,0 +1,17 @@
+.HRS1H-S_DC5V :1 ;MULTICOMP - HRS1H-S DC5V - RELAY, SIGNAL, SPDT, 120VAC, 24VDC, 3A
+HRS1H-S
+*STM K
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 6
+*DFN HRS1H-S_DC5V
+~!Manufacturer_Name (MULTICOMP)
+~!Manufacturer_Part_Number (HRS1H-S DC5V)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!RS Part Number (-)
+~!RS Price/Stock (-)
+~!Link Datasheet (http://www.farnell.com/datasheets/1306691.pdf)
+~!Height (-)
+HRS1H-S_DC5V
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

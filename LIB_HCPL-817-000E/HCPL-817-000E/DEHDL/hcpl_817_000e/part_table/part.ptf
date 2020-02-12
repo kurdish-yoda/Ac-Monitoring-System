@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HCPL_817_000E'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Avago Technologies", "HCPL-817-000E" (!) = "", "DIP762W60P254L460H400Q4N", "Dual-In-Line Packages", "630-HCPL-817-000E", "https://www.mouser.com/Search/Refine.aspx?Keyword=630-HCPL-817-000E", "6961282P", "http://uk.rs-online.com/web/p/products/6961282P", "BROADCOM LIMITED - HCPL-817-000E - OPTOCOUPLER, TRANSISTOR O/P", "https://www.broadcom.com/products/optocouplers/industrial-plastic/other/phototransistor/hcpl-817-000e#overview", "4 mm"
+END_PART
+
+END.

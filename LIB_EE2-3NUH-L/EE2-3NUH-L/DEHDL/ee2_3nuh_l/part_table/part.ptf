@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EE2_3NUH_L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "RS_PART_NUMBER", "RS_PRICE/STOCK", "ALLIED_NUMBER", "ALLIED_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kemet", "EE2-3NUH-L" (!) = "", "EE23NUHL", "Other", "80-EE2-3NUH-L", "https://www.mouser.com/Search/Refine.aspx?Keyword=80-EE2-3NUH-L", "8705447", "http://uk.rs-online.com/web/p/products/8705447", "70302404", "https://www.alliedelec.com/kemet-ee2-3nuh-l/70302404/", "DPDT Surface Mount Non-Latching Relay 2 A, 3V dc", "https://api.kemet.com/component-edge/download/datasheet/EE2-3NUH-L.pdf", "10 mm"
+END_PART
+
+END.

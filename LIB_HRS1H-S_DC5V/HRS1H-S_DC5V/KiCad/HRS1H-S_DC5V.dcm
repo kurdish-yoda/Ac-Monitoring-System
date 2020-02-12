@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HRS1H-S_DC5V
+D MULTICOMP - HRS1H-S DC5V - RELAY, SIGNAL, SPDT, 120VAC, 24VDC, 3A
+K
+F http://www.farnell.com/datasheets/1306691.pdf
+$ENDCMP
+#
+#End Doc Library

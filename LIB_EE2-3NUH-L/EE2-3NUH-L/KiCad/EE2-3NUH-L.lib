@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EE2-3NUH-L
+#/568046/202190/2.44/8/4/Relay or Contactor
+DEF EE2-3NUH-L K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "EE2-3NUH-L" 1150 200 50 H V L CNN
+F2 "EE23NUHL" 1150 100 50 H I L CNN
+F3 "https://api.kemet.com/component-edge/download/datasheet/EE2-3NUH-L.pdf" 1150 0 50 H I L CNN
+F4 "DPDT Surface Mount Non-Latching Relay 2 A, 3V dc" 1150 -100 50 H I L CNN "Description"
+F5 "10" 1150 -200 50 H I L CNN "Height"
+F6 "Kemet" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "EE2-3NUH-L" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "80-EE2-3NUH-L" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=80-EE2-3NUH-L" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "8705447" 1150 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/8705447" 1150 -800 50 H I L CNN "RS Price/Stock"
+F12 "70302404" 1150 -900 50 H I L CNN "Allied_Number"
+F13 "https://www.alliedelec.com/kemet-ee2-3nuh-l/70302404/" 1150 -1000 50 H I L CNN "Allied Price/Stock"
+DRAW
+X COIL_+ 1 0 0 200 R 50 50 0 0 U
+X N.C._1 3 0 -100 200 R 50 50 0 0 U
+X COM_1 4 0 -200 200 R 50 50 0 0 U
+X N.O._1 5 0 -300 200 R 50 50 0 0 U
+X N.O._2 8 1300 0 200 L 50 50 0 0 U
+X COM_2 9 1300 -100 200 L 50 50 0 0 U
+X N.C._2 10 1300 -200 200 L 50 50 0 0 U
+X COIL_- 12 1300 -300 200 L 50 50 0 0 U
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
